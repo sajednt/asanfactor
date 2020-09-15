@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/showfactor"
+        android:icon="@drawable/ic_preview"
+        android:title="نمایش  "
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/savefactor"
+        android:icon="@drawable/ic_icon_save"
+        android:title="ذخیره  "
+        app:showAsAction="ifRoom|withText" />
+</menu>
